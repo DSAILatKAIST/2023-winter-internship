@@ -32,7 +32,7 @@
 | 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | 이해준 | [Slide](./slides/Youtube.pdf) |
 | 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 정승안 | [Slide](./slides/ConvMF_Autorec.pdf) |
 | 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF | 정승안 | [Slide](./slides/ConvMF_Autorec.pdf) |
-| 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL | 한재민 | [Slide](./slides/AFGRL.pdf) |
+| 2023 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL | 한재민 | [Slide](./slides/AFGRL.pdf) |
 
 
 ### Participate to projects
@@ -47,19 +47,19 @@
 
 ## Team Introduction (Lab Interns)  
 ### 서지민
-* [Jimin Repository](https://github.com/)
+* [Jimin Repository (N/A)](https://github.com/)
 
 ### 김준영
-* [Junyoung Repository](https://github.com/)
+* [Junyoung Repository (N/A)](https://github.com/)
 
 ### 이수찬
-* [Suchan Repository](https://github.com/)  
+* [Suchan Repository (N/A)](https://github.com/)  
 
 ### 이종근
-* [Jongkeun Repository](https://github.com/)  
+* [Jongkeun Repository (N/A)](https://github.com/)  
 
 ### 윤민석  
-* [Minseok Repository](https://github.com/)  
+* [Minseok Repository (N/A)](https://github.com/)  
 
 ### 이해준  
 * [Haejoon Repository (N/A)](https://github.com/)    
@@ -71,7 +71,7 @@
 * [Jaemin Repository (N/A)](https://github.com/)  
 
 ### 최은학
-* [Eunhak Repository](https://github.com/)
+* [Eunhak Repository (N/A)](https://github.com/)
 
 ### 구본우
-* [Bonwoo Repository](https://github.com/)
+* [Bonwoo Repository (N/A)](https://github.com/)
