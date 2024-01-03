@@ -56,7 +56,7 @@
 * [Suchan Repository](https://github.com/isuchan0212/kaist-2023-winter-internship)  
 
 ### 이종근
-* [Jongkeun Repository](https://github.com/OnMyWave/gnn-models)  
+* [JongGeun Repository](https://github.com/OnMyWave/gnn-models)  
 
 ### 윤민석  
 * [Minseok Repository](https://github.com/mminseok1/KAIST_DSAIL)  
