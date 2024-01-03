@@ -50,22 +50,22 @@
 * [Jimin Repository (N/A)](https://github.com/)
 
 ### 김준영
-* [Junyoung Repository (N/A)](https://github.com/)
+* [Junyoung Repository](https://github.com/Huchu111111/git_)
 
 ### 이수찬
 * [Suchan Repository (N/A)](https://github.com/)  
 
 ### 이종근
-* [Jongkeun Repository (N/A)](https://github.com/)  
+* [Jongkeun Repository](https://github.com/OnMyWave/gnn-models)  
 
 ### 윤민석  
-* [Minseok Repository (N/A)](https://github.com/)  
+* [Minseok Repository](https://github.com/mminseok1/KAIST_DSAIL)  
 
 ### 이해준  
 * [Haejoon Repository (N/A)](https://github.com/)    
 
 ### 정승안  
-* [SeungAhn Repository (N/A)](https://github.com/)  
+* [SeungAn Repository](https://github.com/junggernaut/2023-winter-internship-DSAIL)  
 
 ### 한재민  
 * [Jaemin Repository (N/A)](https://github.com/)  
@@ -74,4 +74,4 @@
 * [Eunhak Repository (N/A)](https://github.com/)
 
 ### 구본우
-* [Bonwoo Repository (N/A)](https://github.com/)
+* [Bonwoo Repository](https://github.com/kbw8258/2024-DSAIL-Lab-Intern)
