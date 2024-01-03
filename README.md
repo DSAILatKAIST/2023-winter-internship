@@ -53,7 +53,7 @@
 * [Junyoung Repository](https://github.com/Huchu111111/git_)
 
 ### 이수찬
-* [Suchan Repository (N/A)](https://github.com/)  
+* [Suchan Repository](https://github.com/isuchan0212/kaist-2023-winter-internship)  
 
 ### 이종근
 * [Jongkeun Repository](https://github.com/OnMyWave/gnn-models)  
