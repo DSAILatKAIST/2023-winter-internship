@@ -47,7 +47,7 @@
 
 ## Team Introduction (Lab Interns)  
 ### 서지민
-* [Jimin Repository (N/A)](https://github.com/)
+* [Jimin Repository](https://github.com/sggithi/Classic/tree/main)
 
 ### 김준영
 * [Junyoung Repository](https://github.com/Huchu111111/git_)
@@ -62,7 +62,7 @@
 * [Minseok Repository](https://github.com/mminseok1/KAIST_DSAIL)  
 
 ### 이해준  
-* [Haejoon Repository (N/A)](https://github.com/)    
+* [Haejoon Repository](https://github.com/khamneeda/2023-winter-internship-DSAIL)    
 
 ### 정승안  
 * [SeungAn Repository](https://github.com/junggernaut/2023-winter-internship-DSAIL)  
