@@ -38,10 +38,15 @@
 ### Participate to projects
 - On-going projects
   - Universal User Representation 학습
+  - Large Language models for recommendation
+  - Federated Learning
   - 화학 물질간의 상호작용을 통한 물성 예측
+  - 무기물의 역합성 과정을 예측하는 인공지능 모델 개발
   - 시각 메모리 기억을 위한 시각 지식 그래프 생성
-  - Single-cell RNA sequencing
-  - MATH AI (Multi-modal Reasoning)
+  - Fake News Detection
+  - Single-cell RNA sequencing  
+  - Math AI - Muldimodal Chart Reasoning
+  - Cancer Subtype Classification (Hypergraph Disentangling)
 - 담당 대학원생과 함께 진행
 
 
